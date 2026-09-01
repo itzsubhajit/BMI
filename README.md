@@ -59,11 +59,11 @@ BMI/
 ## Future Improvements
 Possible future improvements include:
 
-1.User authentication
-2.Database integration
-3.BMI calculation history
-4.Personalized health dashboard
-5.More detailed health recommendations
-6.Dark mode
-7.Additional health calculators
-8.Integration with fitness and wellness resources
+1. User authentication
+2. Database integration
+3. BMI calculation history
+4. Personalized health dashboard
+5. More detailed health recommendations
+6. Dark mode
+7. Additional health calculators
+8. Integration with fitness and wellness resources
